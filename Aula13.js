@@ -70,3 +70,4 @@ for (const letra of escola) {
     
 
 
+c
