@@ -22,7 +22,7 @@ function NomeEscola2(){
 
     escola2 = 'SENAI'
 console.log(`Valor fora da função: ${escola2}`);
-NomeEscola();
+NomeEscola2();
 console.log(`Valor após a função: ${escola2} `);
 
 
